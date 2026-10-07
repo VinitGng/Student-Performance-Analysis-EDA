@@ -15,7 +15,7 @@ The analysis explores academic, demographic, social, and
 school-related factors and their relationship with students'
 final mathematics grade.
 
-The project was developed as part of **Thirenix Project 3**.
+The project was developed as part of **Student Performance Analysis — EDA**.
 
 ---
 
