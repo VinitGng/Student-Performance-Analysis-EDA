@@ -152,7 +152,7 @@ The project includes:
 ## 📁 Project Structure
 
 ```text
-Thirenix-Project-3-EDA/
+Student Performance Analysis — EDA/
 │
 ├── Student_Performance_EDA.ipynb
 ├── student-mat.csv
